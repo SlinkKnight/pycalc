@@ -1,0 +1,1 @@
+print("your answer is equal to", eval(input("make a calculation >> ")))
